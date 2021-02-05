@@ -6,6 +6,6 @@ class Greetr
 {
     public function greet(String $sName)
     {
-        return 'Hi ' . $sName . '! 1.3 ?';
+        return 'Hi ' . $sName . '! 1.4 ?';
     }
 }
