@@ -9,7 +9,9 @@
             "email": "son@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
     "autoload": {
         "psr-4": {
             "Simplexi\\Greetr\\": "src/"
