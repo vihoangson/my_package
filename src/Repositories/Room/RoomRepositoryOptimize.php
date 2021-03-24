@@ -3,7 +3,7 @@ namespace Lampart\Lib\Repositories\Room;
 
 use App\Entities\RoomEntity;
 
-class RoomRepositoryOptimize implements RoomRepositoryOptimizeInterface {
+class RoomRepositoryOptimize  {
 
 
     public static function all() {
